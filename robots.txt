@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://duoaoqiu.github.io/jinridasaiad/sitemap.xml
